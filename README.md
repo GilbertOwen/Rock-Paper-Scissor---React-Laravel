@@ -10,8 +10,16 @@
 ### Dependencies used : 
 -Axios
 
-The laravel code is inside historyApi folder
 
-To use this code, you can just simply download it and access it by CMD and type npm install
+### To install the react :
+- Access the RPS-react folder by CMD
+- type npm install
+- Done.
 
-And for the laravel inside
+### The laravel code is inside historyApi folder
+#### And for the laravel inside, do this steps :
+- Go inside the folder
+- type composer install
+- make a database or you can just change it base to what you want inside .ENV file
+- php artisan migrate
+- Done.
