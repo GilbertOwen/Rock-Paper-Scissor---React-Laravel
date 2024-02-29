@@ -1,6 +1,6 @@
 # React + Laravel
 
-## A project based on rock, paper, scissor.
+## A simple project based on rock, paper, scissor.
 
 ### Using : 
 - React for the frontEnd
