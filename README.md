@@ -9,3 +9,9 @@
 
 ### Dependencies used : 
 -Axios
+
+The laravel code is inside historyApi folder
+
+To use this code, you can just simply download it and access it by CMD and type npm install
+
+And for the laravel inside
